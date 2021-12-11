@@ -29,7 +29,7 @@
    &kp TAB   &kp Q &kp W &kp E &kp R &kp T   &kp Y          &kp U  &kp I         &kp O   &kp P     &kp BSPC
    &kp ESC   &kp A &kp S &kp D &kp F &kp G   &kp H          &kp J  &kp K         &kp L   &kp COLON &kp SQT
    &kp LSHFT &kp Z &kp X &kp C &kp V &kp B   &kp N          &kp M  &kp COMMA     &kp DOT &kp FSLH  &kp RET
-                   &kp LGUI &mo LNUMPAD &th_bal LCTRL RET    &kp SPACE &mo LSYMBOL &kp LALT
+                         &kp LGUI &mo LNUMPAD &kp RET       &kp SPACE &mo LSYMBOL &kp LALT
                         >;
                 };
                 lower_layer {
